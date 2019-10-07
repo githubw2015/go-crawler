@@ -36,3 +36,6 @@ https://blog.csdn.net/weixin_37677804/article/details/82877984
 
 ##数据库结构 参见rent.sql 文件
 <br/>
+
+##抓取数据的效果图:
+![实际效果图](./82951.png)
