@@ -11,7 +11,7 @@ parser： 解析fetcher返回的结果
 6.main.go：项目入口
 
 
-整体：
+#整体：
 将request传递给engine
 engine将request交给scheduler调度
 scheduler将request放入channel，然后由worker进行解析，将解析结果再放入channel,scheduler从channel中获取
@@ -26,7 +26,7 @@ scheduler：
 持续将request放入channel，安排worker进行工作
 
 
-如何使用:
+#如何使用:
 前提这两个包需要下载下来：
 git clone https://github.com/golang/text.git   
 git clone https://github.com/golang/net.git 
