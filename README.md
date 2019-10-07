@@ -27,8 +27,8 @@ parseResult继续调度任务<br/>
 
 <br/>
 ##如何使用:
-前提这两个包需要下载下来：
-git clone https://github.com/golang/text.git   
+前提这两个包需要下载下来：<br/>
+git clone https://github.com/golang/text.git   <br/>
 git clone https://github.com/golang/net.git 
 
 ##如何下载：可以参考一下文章
@@ -36,4 +36,3 @@ https://blog.csdn.net/weixin_37677804/article/details/82877984
 
 ##数据库结构 参见rent.sql 文件
 <br/>
-
